@@ -1,0 +1,1 @@
+# touhou-spell-clash-docs
