@@ -1,1 +1,1 @@
-# touhou-spell-clash-docs
+# touhou-spirit-clash-docs
