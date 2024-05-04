@@ -24,7 +24,7 @@ This Documentation is a work in progress, thank you for your consideration.
 
 ## Game Mechanics
 ### What is in a card?
-![alt text](assets/card-parts.png)
+![alt text]({{ site.baseurl }}/assets/card-parts.png)
 
 ### Playing a Card
 Cards come in the following Card Types:
@@ -38,12 +38,12 @@ Note: At the moment of writting there is plans for Unit, Item, Spellcard and Sta
 ```
 Each player has a battle field, refer to the following picture for explanations.
 
-![alt text](assets/field-1.png)
+![alt text]({{ site.baseurl }}/assets/field-1.png)
  
 In order to play a card, the card''s cost must be payed from yout **Spirit Power**, at least one of the **Spirit Power** used to pay must be of the same Element. More on **Spirit Charging** in the turn order section. Once the *Cost* is paid, you may play the card.
 
 The following chart describes how the turns are played.
-![alt text](assets/turn-chart.png)
+![alt text]({{ site.baseurl }}/assets/turn-chart.png)
 
 ###
 - Describe the core gameplay mechanics:
