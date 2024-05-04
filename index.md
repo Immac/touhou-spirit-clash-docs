@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Touhou Spirit Clash
 ```
 This Documentation is a work in progress, thank you for your consideration.
