@@ -13,7 +13,7 @@ This Documentation is a work in progress, thank you for your consideration.
 
 - Touhou Spirit Clash is in development, everything in the game is subject to change.
 
-- At this moment, the Card Maker is in development, you can visit the [devlogs on itch.io](https://immac.itch.io/touhou-tcg-maker) for more updates.
+- At this moment, the [Card Maker](https://immac.itch.io/touhou-tcg-maker) is in development, you can visit the [devlogs on itch.io](https://immac.itch.io/touhou-tcg-maker) for more updates.
 
 - The Game itself is intended as a physical card game. If there is interest for it I will be also making packages for simulators.
 
@@ -31,20 +31,21 @@ Cards come in the following Card Types:
 ```
 Note: At the moment of writting there is plans for Unit, Item, Spellcard and Stage cards.
 ```
+Each player has a battle field, refer to the following picture for explanations.
 
+![alt text](assets/field-1.png)
+ 
+In order to play a card, the card''s cost must be payed from yout **Spirit Power**, at least one of the **Spirit Power** used to pay must be of the same Element. More on **Spirit Charging** in the turn order section. Once the *Cost* is paid, you may play the card.
+
+The following chart describes how the turns are played.
+![alt text](assets/turn-chart.png)
+
+###
 - Describe the core gameplay mechanics:
     - How are cards played?
     - What are the win conditions?
     - Any special rules or interactions?
     - Explain turn structure, phases, and actions.
-
-## Card Types
-- Categorize the different types of cards in your TCG:
-    - Character cards
-    - Spell cards
-    - Event cards
-    - Equipment cards
-- Provide examples and explain their roles.
 
 ## Deck Building
 - Guide players on constructing their decks:
