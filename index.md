@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Home
+title: Touhou Spirit Clash
 author_profile: true
 ---
 
-# Touhou Spirit Clash
 ```
 This Documentation is a work in progress, thank you for your consideration.
 ```
