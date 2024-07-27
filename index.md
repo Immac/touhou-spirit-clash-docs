@@ -2,10 +2,11 @@
 layout: home
 title: Touhou Spirit Clash
 author_profile: true
+subtitle: "A Touhou RPG"
 ---
-
 ```
-This Documentation is a work in progress, thank you for your consideration.
+This Documentation is a work in progress, 
+thank you for your consideration.
 ```
 ## Welcome to Touhou Spirit Clash
 - *Touhou Spirit Clash* is a Trading Card Game (TCG) that combines strategy, skill, and luck. Players build decks of cards representing various characters, spells, events, and equipment.
