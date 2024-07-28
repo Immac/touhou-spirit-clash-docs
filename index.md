@@ -3,6 +3,13 @@ layout: home
 title: Touhou Spirit Clash
 author_profile: true
 subtitle: "A Touhou RPG"
+
+toc: true
+toc_label: "Contents"
+toc_icon: "book"
+
+sidebar:
+    nav: post
 ---
 ```
 This Documentation is a work in progress, 
@@ -20,6 +27,8 @@ thank you for your consideration.
 - Touhou Spirit Clash is in development, everything in the game is subject to change.
 
 - At this moment, the [Card Maker](https://immac.itch.io/touhou-tcg-maker) is in development, you can visit the [devlogs on itch.io](https://immac.itch.io/touhou-tcg-maker) for more updates.
+
+- For some early examples please visit [Pre Alpha](/pre-alpha-cards.md).
 
 - The Game itself is intended as a physical card game. If there is interest for it I will be also making packages for simulators.
 
