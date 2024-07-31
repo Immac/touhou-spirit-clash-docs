@@ -1,5 +1,7 @@
 post:
   - title: Navigation
   - children:
-    - title: Test Internal
-      url: "/posts/2024-07-22-hello-world.markdown"
+    - title: Home
+      url: "/"
+    - title: Rules
+      url: "/rules"

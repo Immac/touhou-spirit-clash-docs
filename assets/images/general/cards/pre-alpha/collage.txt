@@ -1,0 +1,1 @@
+magick montage *.png -geometry 750x1050 -tile 3x collage.png
