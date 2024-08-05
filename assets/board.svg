@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.25606581"
-     inkscape:cx="2714.1461"
-     inkscape:cy="939.2117"
+     inkscape:cx="441.29281"
+     inkscape:cy="259.69886"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="2512"
@@ -347,5 +347,30 @@
          x="185.53839"
          y="204.15956"
          id="tspan60">Zone</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.11669;stroke-linejoin:round"
+       id="rect11-8"
+       width="72.883324"
+       height="72.883308"
+       x="-149.22632"
+       y="151.39005"
+       ry="10.776752"
+       rx="10.776752" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.8167px;font-family:commando;-inkscape-font-specification:commando;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.917;stroke-linejoin:round;stroke-dasharray:none"
+       x="-114.45837"
+       y="185.71397"
+       id="text19-4"><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.917"
+         x="-114.45837"
+         y="185.71397"
+         id="tspan21-5">Current</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.917"
+         x="-114.45837"
+         y="204.23485"
+         id="tspan1">Stage</tspan></text>
   </g>
 </svg>

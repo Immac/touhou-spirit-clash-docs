@@ -12,34 +12,26 @@ sidebar:
     nav: post
 ---
 <script src="https://kit.fontawesome.com/a1fb323f80.js" crossorigin="anonymous"></script>
-<style> td img { background-color: #252525; height:32px; border-radius: 5px; } </style>
-<style> i.fa-circle-check { color: green; } i.fa-circle-xmark { color: red; } </style>
+<style> td img { background-color: #252525; height:32px; border-radius: 5px; } .small-svg { background-color: #252525; height:32px; border-radius: 5px; }
+i.fa-circle-check { color: green; } i.fa-circle-xmark { color: red; } </style>
 
 ```
 This Documentation is a work in progress, 
 thank you for your consideration.
 ```
 
-## Welcome to Touhou Spirit Clash
-- *Touhou Spirit Clash* is a Trading Card Game (TCG) that combines strategy, skill, and luck. Players build decks of cards representing various characters, spells, events, and equipment.
+## Rules and Game Mechanics
 
-- Through the use of card abilities and mechanics, players can create powerful combinations and interactions. The game also incorporates artwork and flavor inspired by the Touhou universe
+### Objective: _All Stage Clear_
 
-- The general flow of the game consists of summoning characters, activating effects and using mechanics to clear your opponent's stages and solve incidents. A player who runs out of stages loses; the last player standing wins.
+The objective of the game is to Clear 7 of your Opponent's Stages, 6 Main Stages and 1 Extra Stage. Each Player takes turns, developing their board and Knocking Out opposing Units, as well as completing Objectives in order to Clear Stages. Be careful though, each Stage that is Cleared grants the Player with access to more resources and options.
 
-## In Development
+### Setup
 
-- Touhou Spirit Clash is in development, everything in the game is subject to change.
+To play the game you will need a deck composed of at least 60 Cards and a most 70 Cards. You may have up to 4 copies of cards with the same Name. 
 
-- At this moment, the [Card Maker](https://immac.itch.io/touhou-tcg-maker) is in development, you can visit the [devlogs on itch.io](https://immac.itch.io/touhou-tcg-maker) for more updates.
-
-- For some early examples please visit [Pre Alpha](/pre-alpha-cards.md).
-
-- The Game itself is intended as a physical card game. If there is interest for it I will be also making packages for simulators.
-
-## Game Mechanics
 ### What is in a card?
-![alt text]({{ site.baseurl }}/assets/card-parts.png)
+![alt text](assets/card-parts.png)
 
 ### Playing a Card
 Cards come in the following Card Types:
@@ -63,7 +55,7 @@ The following chart describes how the turns are played.
 
 ### Damage Types
 
-Cards can deal the following Types of damage. Damage can sometimes be reduces with block (BLOCK_ICON) or avoided completely with graze (GRAZE_ICON). Refer to the chart below for specific interactions.
+Cards can deal the following Types of damage. Damage can be reduced with block <img class="small-svg" src="assets/images/icons/tenacity-types/block.svg" alt="block"> or avoided completely with graze <img class="small-svg" src="assets/images/icons/tenacity-types/dodge.svg" alt="block"> in accordance to the chart below.
 
 | Name | Icon | Target | Block? | Graze? |
 | ---- | :----: | ------ | :----------: | :----------: |

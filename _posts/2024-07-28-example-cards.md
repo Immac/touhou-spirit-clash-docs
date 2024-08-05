@@ -20,10 +20,6 @@ gallery:
       image_path: /assets/images/general/cards/pre-alpha/Daiyousei-Alpha-4.png
       alt: "Daiyousei 4"
       title: "Daiyousei 4"
-    - url: /assets/images/general/cards/pre-alpha/Example Card-Alpha-5.png
-      image_path: /assets/images/general/cards/pre-alpha/Example Card-Alpha-5.png
-      alt: "Example Card 5"
-      title: "Example Card 5"
     - url: /assets/images/general/cards/pre-alpha/Hakurei Reimu-Alpha-6.png
       image_path: /assets/images/general/cards/pre-alpha/Hakurei Reimu-Alpha-6.png
       alt: "Hakurei Reimu 6"

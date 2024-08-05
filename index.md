@@ -27,6 +27,8 @@ thank you for your consideration.
 
 - The general flow of the game consists of summoning characters, activating effects and using mechanics to clear your opponent's stages and solve incidents. A player who runs out of stages loses; the last player standing wins.
 
+- Please visit the [Rules' Page](/rules.md) for more information.
+
 ## In Development
 
 - Touhou Spirit Clash is in development, everything in the game is subject to change.
@@ -37,4 +39,4 @@ thank you for your consideration.
 
 - The Game itself is intended as a physical card game. If there is interest for it I will be also making packages for simulators.
 
-- Please visit the [Rules' Page](/rules.md) for more information.
+
