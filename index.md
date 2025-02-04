@@ -12,8 +12,11 @@ sidebar:
     nav: post
 ---
 <script src="https://kit.fontawesome.com/a1fb323f80.js" crossorigin="anonymous"></script>
-<style> td img { background-color: #252525; height:32px} </style>
-<style> i.fa-circle-check { color: green; } i.fa-circle-xmark { color: red; } </style>
+<style> 
+td img { background-color: #252525; height:32px} 
+i.fa-circle-check { color: green; } 
+i.fa-circle-xmark { color: red; } 
+</style>
 
 ```
 This Documentation is a work in progress, 
