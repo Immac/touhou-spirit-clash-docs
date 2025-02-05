@@ -26,18 +26,21 @@ baseurl: "/touhou-spirit-clash-docs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ImmacHN
 github_username:  Immac
-
+author: Immac
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
+      layout: single
+      author: Immac
       show_date: true
       read_time: true
       author_profile: true

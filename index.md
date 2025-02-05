@@ -17,12 +17,10 @@ td img { background-color: #252525; height:32px}
 i.fa-circle-check { color: green; } 
 i.fa-circle-xmark { color: red; } 
 </style>
-
 ```
 This Documentation is a work in progress, 
 thank you for your consideration.
 ```
-
 ## Welcome to Touhou Spirit Clash
 - *Touhou Spirit Clash* is a Trading Card Game (TCG) that combines strategy, skill, and luck. Players build decks of cards representing various characters, spells, events, and equipment.
 
@@ -40,6 +38,6 @@ thank you for your consideration.
 
 - For some early examples please visit [Pre Alpha](/pre-alpha-cards.md).
 
-- The Game itself is intended as a physical card game. If there is interest for it I will be also making packages for simulators.
+- The Game itself is intended as a physical card game. If there is interest for it I will be also making packages for simulators. 
 
 
